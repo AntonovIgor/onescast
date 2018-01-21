@@ -26,8 +26,12 @@ body {
     justify-content: center;
 }
 
-.logo {
-    width: 210px;
+.logo {    
+    
+}
+
+.page-header__logo {
+    padding: 10px;
 }
 
 .logo__title {
