@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Igor Antonov",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
 }
