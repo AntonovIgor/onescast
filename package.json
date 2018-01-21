@@ -1,0 +1,11 @@
+{
+  "name": "onescast",
+  "version": "1.0.0",
+  "description": "Сайт проекта OneSCast - все о программировании на 1С ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Antonov",
+  "license": "ISC"
+}
