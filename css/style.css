@@ -1,0 +1,95 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+}
+
+.page-header {
+    background-color: #fbf07c;
+
+}
+.page-header__inner {
+    margin: 0 auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    max-width: 1200px;
+    width: 100%;    
+}
+
+.page-header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-header-bottom {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 210px;
+}
+
+.logo__title {
+    display: block;
+    font-size: 1.4em;
+}
+
+.description {}
+
+.description__title {
+    display: block;
+    font-size: 3em;
+}
+
+.description__subtitle {
+    display: block;
+    font-size: 2em;
+}
+
+.page-header__main-menu {
+    padding: 20px;
+}
+
+.main-menu {
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+.main-menu__item {   
+    color: #000000; 
+    font-size: 1.7em;
+    font-weight: 700;
+    padding: 10px;
+   
+}
+
+.main-menu__item:hover {
+
+}
+
+
+.page-content {
+
+}
+.page-content__inner {
+    margin: 0 auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    max-width: 1200px;
+    width: 100%;
+}
+
+
+.page-footer {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.page-footer__inner {
+    margin: 0 auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    max-width: 1200px;
+    width: 100%;    
+}
