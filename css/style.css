@@ -124,6 +124,7 @@ body {
 
 .content-cards-item {
     margin-bottom: 1.2em;
+    position: relative;
 }
 
 .page-content__content-cards {
@@ -134,4 +135,32 @@ body {
 .page-content__cards-item {
     width: 300px;
     max-width: 100%;
+}
+
+.content-cards-item__date {
+    background-color: #d63d26;
+    border-radius: 999px;
+    display: block;
+    width: 60px;
+    height: 60px;
+    color: #ffffff;
+    position: relative;
+    font-size: 1.1em;
+    font-weight: 700; 
+    left: 46%;
+    top: -12%;   
+}
+
+.content-publish-date {
+    position: absolute;
+    top: 17%;
+    left: 30%;
+}
+
+.content-publish-date__day {
+    display: block;
+}
+
+.content-publish-date__month {
+    display: block;
 }
